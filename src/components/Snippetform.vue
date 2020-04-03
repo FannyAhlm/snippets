@@ -142,7 +142,7 @@ export default {
   div.errorDiv{
     margin-bottom: .5rem;
   }
-  :placeholder-shown{
+  :placeholder{
     opacity: 70%;
   }
   div.form,
