@@ -136,6 +136,7 @@ export default {
   input,
   textarea{
     padding: .3rem;
+    border: 1px solid grey;
   }
   div.title,
   div.errorDiv{
